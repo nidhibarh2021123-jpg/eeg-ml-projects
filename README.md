@@ -18,13 +18,7 @@ The future isn't about AI replacing humans or humans becoming obsolete; rather, 
 Follow my learning journey on Medium: https://medium.com/@nidhibarh2021123
 ```
 
-### **5. Medium Post (draft)**
-Create a post (in drafts for now):
 
-**Title:** "I'm 16 and Building Neurotech: Here's My EEG + ML Journey."
-
-**Intro:**
-```
 I'm building toward founding a company that bridges Human and AGI through 
 neurotech. This is my learning log. Every month, I'll document one project, 
 one breakthrough, and one mistake.
